@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @karthikailango
 - 👀 I’m interested in application Development
-- 🌱 I’m currently into developing applications with flutter
-- 💞️ I’m looking for a full time job as a Flutter Developer
+- 🌱 I’m currently into developing applications with bootstrap
+- 💞️ I’m looking for a full time job as a frontend Developer
 - 📫 reach me at karthikami007@gmail.com
 
 <!---
